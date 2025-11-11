@@ -34,11 +34,7 @@
             <default>false</default>
         </picklistValues>                           
         <picklistValues>
-            <fullName>Quotes</fullName>
-            <default>false</default>
-        </picklistValues>
-        <picklistValues>
-            <fullName>Estimates</fullName>
+            <fullName>Proposals</fullName>
             <default>false</default>
         </picklistValues>
         <picklistValues>

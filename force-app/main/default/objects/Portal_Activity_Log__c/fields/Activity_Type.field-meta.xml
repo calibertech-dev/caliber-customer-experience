@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Activity_Type__c</fullName>
+    <label>Activity Type</label>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>false</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>View Invoice</fullName>
+                <default>false</default>
+                <label>View Invoice</label>
+            </value>
+            <value>
+                <fullName>Download Invoice</fullName>
+                <default>false</default>
+                <label>Download Invoice</label>
+            </value>
+            <value>
+                <fullName>Make Payment</fullName>
+                <default>false</default>
+                <label>Make Payment</label>
+            </value>
+            <value>
+                <fullName>View Quote</fullName>
+                <default>false</default>
+                <label>View Quote</label>
+            </value>
+            <value>
+                <fullName>Accept Quote</fullName>
+                <default>false</default>
+                <label>Accept Quote</label>
+            </value>
+            <value>
+                <fullName>Decline Quote</fullName>
+                <default>false</default>
+                <label>Decline Quote</label>
+            </value>
+            <value>
+                <fullName>View File</fullName>
+                <default>false</default>
+                <label>View File</label>
+            </value>
+            <value>
+                <fullName>Download File</fullName>
+                <default>false</default>
+                <label>Download File</label>
+            </value>
+            <value>
+                <fullName>Update Profile</fullName>
+                <default>false</default>
+                <label>Update Profile</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
